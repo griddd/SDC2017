@@ -1,5 +1,5 @@
 # SDC2017
-Very happy and humbled to have spoken at SkyDogCon 7!  Sad to hear that SDC has likely ended :(  
+Very happy and humbled to have spoken at SkyDogCon 7!  Sad to hear that SDC has ended :(  
 
 Slides from my talk are here, as well as notes I took during the other sessions.
 
